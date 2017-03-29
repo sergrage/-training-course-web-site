@@ -11,6 +11,7 @@
 *.sass-cache
 node_modules/
 app/tmp/
+gulp
 
 
 # OS or Editor folders
